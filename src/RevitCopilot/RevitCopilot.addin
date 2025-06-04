@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>RevitCopilot</Name>
+    <Assembly>RevitCopilot.dll</Assembly>
+    <AddInId>00000000-0000-0000-0000-000000000000</AddInId>
+    <FullClassName>RevitCopilot.CopilotCommand</FullClassName>
+    <VendorId>ACME</VendorId>
+    <VendorDescription>imaginARC</VendorDescription>
+  </AddIn>
+</RevitAddIns>
